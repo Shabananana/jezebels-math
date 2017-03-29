@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "babel-cli": "^6.24.0"
+  },
+  "name": "jezebels-math",
+  "version": "1.0.0",
+  "description": "Solving project euler problems in js",
+  "main": "index.js",
+  "repository": "https://github.com/Shabananana/jezebels-math.git",
+  "author": "Jeff Davis <jdavis@draftkings.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
